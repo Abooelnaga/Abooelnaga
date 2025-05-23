@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wyc2E1YWxzd3I0bzhnd2ZvZnVlZzQ3eTYwOWFzemFuYnpmeHdmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sPE10urWXK7YLZ7oli/giphy.gif)" width="200" alt="Welcome!" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wyc2E1YWxzd3I0bzhnd2ZvZnVlZzQ3eTYwOWFzemFuYnpmeHdmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sPE10urWXK7YLZ7oli/giphy.gif" width="200" alt="Welcome!" />
   <h1>Hi, I'm Mohamed Aboelnaga 👋</h1>
   <h3>Creative UI/UX Designer | Building elegant digital experiences</h3>
 </div>
