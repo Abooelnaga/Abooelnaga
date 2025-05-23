@@ -34,7 +34,10 @@
 
 ###
 
-<p align="left">I'm Mohamed from Egypt<br><br>- 🔭 I’m working as UIUX<br>- 📚 I'm currently learning UX<br>- ⚡ In my free time I Coding</p>
+- 🔭 Passionate about **designing intuitive user interfaces**
+- 🎨 Currently focusing on **UX research, interaction design, and mobile-first interfaces**
+- 🚀 Always exploring the bridge between creativity and usability
+- 🌍 Aiming to craft **world-class user experiences**
 
 ###
 
