@@ -1,57 +1,57 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="180"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Welcome!" />
+  <h1>Hi, I'm Mohamed Aboelnaga 👋</h1>
+  <h3>Creative UI/UX Designer | Building elegant digital experiences</h3>
 </div>
 
-<h1 align="center">Hi 👋, I'm Mohamed Aboelnaga</h1>
-<h3 align="center">A passionate UI/UX designer & front-end developer from Egypt</h3>
+---
 
-<p align="center">
+<div align="center">
   <a href="https://www.instagram.com/moo.naga" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://t.me/moonaga" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-%232CA5E0?logo=telegram&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.youtube.com/@daqaeq" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
   </a>
-</p>
+</div>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
-- 🎨 UI/UX Designer & Frontend Developer  
-- 📚 Currently learning advanced UX principles  
-- 💡 I enjoy prototyping, designing interfaces & building websites  
-- ⚡ Fun fact: I love coding at night while listening to lofi
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-</p>
+- 🔭 Passionate about **designing intuitive user interfaces**
+- 🎨 Currently focusing on **UX research, interaction design, and mobile-first interfaces**
+- 🚀 Always exploring the bridge between creativity and usability
+- 🌍 Aiming to craft **world-class user experiences**
 
 ---
 
-### 📊 GitHub Stats
+## ✨ My Toolkit
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abooelnaga&theme=dark&hide_border=false" height="200" />
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/git/F05032?style=flat&logoColor=white" height="40" alt="Git" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abooelnaga.abooelnaga" alt="visitor badge"/>
-</p>
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abooelnaga&theme=tokyonight&hide_border=true&border_radius=5" height="200" />
+  <br />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abooelnaga.abooelnaga" />
+</div>
+
+---
+
+<div align="center">
+  <strong>Designing with purpose, thinking with empathy 💡</strong>
+</div>
