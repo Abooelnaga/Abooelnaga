@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wyc2E1YWxzd3I0bzhnd2ZvZnVlZzQ3eTYwOWFzemFuYnpmeHdmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sPE10urWXK7YLZ7oli/giphy.gif" width="200" alt="Welcome!" />
-  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-  <h1>Hi, I'm Mohamed Aboelnaga Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</h1>
+  <h1>Hi, I'm Mohamed Aboelnaga </h1>
   <h3>Creative UI/UX Designer | Building elegant digital experiences</h3>
 </div>
 
